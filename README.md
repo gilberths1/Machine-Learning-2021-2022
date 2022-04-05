@@ -1,3 +1,3 @@
 # MachineLearningAssignment
 
-URL dataset : https://www.kaggle.com/datasets/mathchi/diabetes-data-set
+This file is a collection of practice files, assignments, and exams on Machine Learning
